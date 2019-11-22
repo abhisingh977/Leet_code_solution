@@ -19,3 +19,4 @@ class Solution:
             return True
         else:
             return False                       # If stack is not empty then return False.
+  
